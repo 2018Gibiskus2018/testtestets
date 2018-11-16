@@ -1,0 +1,49 @@
+
+
+.tip,.footer{
+background-image: url(images/header.jpg);
+}
+.tip{
+height:190px;	
+}
+
+.footer{
+	height:100px;	
+}
+.left,.right,.slick-container,.center
+{background:#F0FFFF;
+ float: left;
+ margin: 1em 1em 1em 1em;
+height:650px;}
+.im{
+ float: right;	
+  /* Обтекание картинки по левому краю */
+    padding-left: 10px; /* Отступ слева */
+    padding-bottom: 10px
+}
+.slick-container{
+	width:200px;
+}
+
+.right{
+
+height:650px;
+}
+.media-test
+{
+height:300px;
+background:#000;
+}
+@media screen and (max-width:576px)
+{
+.media-test
+{
+background:red;
+}
+}
+
+
+
+
+
+
