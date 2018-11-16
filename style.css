@@ -7,8 +7,7 @@ background-image: url(header.jpg);
 height:190px;
 	
 }
-.main-title{
-	font-size:20px;
+
 }
 
 .footer{
@@ -42,8 +41,10 @@ background:#000;
 {
 .media-test
 {
-background:red;
-}
+background:red;}
+.main-title{
+	font-size:20px;}
+
 }
 
 
