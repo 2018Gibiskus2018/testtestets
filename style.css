@@ -4,7 +4,11 @@
 background-image: url(header.jpg);
 }
 .tip{
-height:190px;	
+height:190px;
+	
+}
+.main-title{
+	font-size:20px;
 }
 
 .footer{
